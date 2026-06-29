@@ -3,7 +3,7 @@ import {
   getHtmlpage,
   handleSubmit,
   getalluser,
-} from "../controller/user-controller";
+} from "../controller/user-controller.js";
 
 const router = Router();
 
